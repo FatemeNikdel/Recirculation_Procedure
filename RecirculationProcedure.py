@@ -1,6 +1,7 @@
 # imports
 import numpy as np
 
+
 class Recirculation():
 
     """Recirculation Procedure: A learning method for networks.
